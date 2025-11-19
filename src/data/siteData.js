@@ -1,7 +1,7 @@
 export const personalInfo = {
     name: "Muhammad Ismaeel",
     role: "Web Developer & Web Designer",
-    avatar: "/public/images/my-avatar.png",
+    avatar: "https://ismaeel-framer-portfolio.vercel.app/public/images/my-avatar.png",
 };
 
 export const contacts = [
