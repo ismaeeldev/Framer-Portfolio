@@ -11,7 +11,7 @@ export const contacts = [
         icon: "mail-outline",
         value: "m.ismaeel.developer@gmail.com",
     },
-    {.
+    {
         type: "phone",
         label: "Phone",
         icon: "phone-portrait-outline",
