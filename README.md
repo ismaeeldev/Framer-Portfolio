@@ -1,16 +1,56 @@
-# React + Vite
+# Design Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Design Portfolio** project! This portfolio showcases modern, sleek, and responsive designs for web projects. It is built to demonstrate professional-level UI/UX design and development skills.
 
-Currently, two official plugins are available:
+## Purpose
+The purpose of this project is to provide a platform to showcase various design projects in an interactive and visually appealing way. It includes features like project details, live previews, and client feedback, ensuring a seamless user experience.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Live Preview
+This project is live! Check it out here: [Design Portfolio Live](https://ismaeel-framer-portfolio.vercel.app/)
 
-## React Compiler
+## Tech Stack
+- **Frontend**: React, Tailwind CSS, Framer Motion
+- **Build Tool**: Vite
+- **Icons**: Lucide React
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## Features
+- Fully responsive design
+- Interactive project modals with live previews
+- Client feedback carousel
+- Modern UI/UX with animations
+- Optimized for performance
 
-## Expanding the ESLint configuration
+## Installation
+To run this project locally, follow these steps:
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/ismaeeldev/Framer-Portfolio.git
+   ```
+
+2. Navigate to the project directory:
+   ```bash
+   cd Framer-Portfolio
+   ```
+
+3. Install dependencies:
+   ```bash
+   npm install
+   ```
+
+4. Start the development server:
+   ```bash
+   npm run dev
+   ```
+
+5. Open your browser and navigate to `http://localhost:5173`.
+
+## Contribution
+Contributions are welcome! If you'd like to contribute, please fork the repository and submit a pull request. For major changes, please open an issue first to discuss what you'd like to change.
+
+## Author
+**Muhammad Ismaeel**  
+Email: [m.ismaeel.developer@gmail.com](mailto:m.ismaeel.developer@gmail.com)
+
+## License
+This project is licensed under the MIT License. Feel free to use and modify it as per your needs.
